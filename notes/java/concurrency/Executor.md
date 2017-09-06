@@ -9,5 +9,5 @@
 * ScheduledThreadPoolExecutor
 
 这些类都在包java.util.concurrency下，它们的关系入下图所示：
-![img](resources/class-diagram-java-executor.jpg)
+![img](/resources/class-diagram-java-executor.jpg)
 
