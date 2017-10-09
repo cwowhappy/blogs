@@ -19,4 +19,4 @@ public interface Runnable {
 #### 3.2.[M]`notify`
 * `notify`方法是如何实现唤醒阻塞线程的？
 
-### 4.类monitor和类实例monitor
+### 4.Monitor Object设计模式
