@@ -5,6 +5,7 @@
 * SGD: Sample Gradient Descent
 *
 *
+$f(x) = \sum_{i=0}^{N}\int_{a}^{b} g(t,i) \text{ d}t$
 
 
 ### 参考文献
